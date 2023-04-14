@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm 🅚🅗🅤🅢🅗🅘 🅞🅙🅗🅐</h1>
-<h3 align="center">💫✨Currently pursuing B.tech CSE specialization in health informatics at vit bhopal</h3>
+<h3 align="center">Currently pursuing B.tech CSE specialization in health informatics at vit bhopal</h3>
 
-- 💫 I’m currently working on *🅆🄴🄱 🄳🄴🅅🄴🄻🄾🄿🄼🄴🄽🅃*
+-  I’m currently working on *🅆🄴🄱 🄳🄴🅅🄴🄻🄾🄿🄼🄴🄽🅃*
 
-- 🌺 I’m currently learning *R programing*
+-  I’m currently learning *R programing*
 
-- 🧚‍♂️ How to reach me **https://www.linkedin.com/in/khushi-ojha-29130b209**
+-  How to reach me **https://www.linkedin.com/in/khushi-ojha-29130b209**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
