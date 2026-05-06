@@ -2,6 +2,8 @@
 <h3 align="center">B.tech CSE specialization in Health Informatics at Vit Bhopal</h3>
 
 -  I’m currently working on *🅆🄴🄱 🄳🄴🅅🄴🄻🄾🄿🄼🄴🄽🅃*
+-  Digital Marketing
+-  WordPress , SEO , Social Media Management 
 
 -  How to reach me **https://www.linkedin.com/in/khushi-ojha-29130b209**
 
