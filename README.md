@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm 🅚🅗🅤🅢🅗🅘 🅞🅙🅗🅐</h1>
-<h3 align="center">B.tech CSE specialization in health informatics at vit bhopal</h3>
+<h3 align="center">B.tech CSE specialization in Health Informatics at Vit Bhopal</h3>
 
 -  I’m currently working on *🅆🄴🄱 🄳🄴🅅🄴🄻🄾🄿🄼🄴🄽🅃*
-
--  I’m currently learning *R programing*
 
 -  How to reach me **https://www.linkedin.com/in/khushi-ojha-29130b209**
 
