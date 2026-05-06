@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 🅚🅗🅤🅢🅗🅘 🅞🅙🅗🅐</h1>
-<h3 align="center">Currently pursuing B.tech CSE specialization in health informatics at vit bhopal</h3>
+<h3 align="center">B.tech CSE specialization in health informatics at vit bhopal</h3>
 
 -  I’m currently working on *🅆🄴🄱 🄳🄴🅅🄴🄻🄾🄿🄼🄴🄽🅃*
 
